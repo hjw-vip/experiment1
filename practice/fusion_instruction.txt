@@ -1,0 +1,1 @@
+Use the three prior Memory records in timestamp order. Combine the actions and preferences stated in their prompt text into one concise team checklist, then state the resulting checklist.
